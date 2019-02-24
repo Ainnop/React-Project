@@ -30,6 +30,7 @@ class App extends Component {
         <p className="App-intro">
           My name is Arereng Jemimah. Welcome, and hello!
         </p>
+        <h3>This is the a successful surge build</h3>
       </div>
     );
 
